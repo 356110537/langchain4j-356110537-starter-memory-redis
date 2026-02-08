@@ -8,7 +8,7 @@
     <artifactId>langchain4j-35610537-starter-memory-redis</artifactId>
     <version>${revision}</version>
     <packaging>jar</packaging>
-    <name>langchain4j-iflytek-starter-memory-redis</name>
+    <name>langchain4j-356110537-starter-memory-redis</name>
     <description>langchain4j memory redis</description>
     <url>https://github.com/356110537/langchain4j-356110537-starter-memory-redis</url>
 
@@ -30,13 +30,14 @@
     </developers>
 
     <scm>
-        <url>scm:git@github.com:356110537/iflytek-liteflow-el-builder.git</url>
-        <connection>scm:git@github.com:356110537/iflytek-liteflow-el-builder.git</connection>
-        <developerConnection>scm:git@github.com:356110537/iflytek-liteflow-el-builder.git</developerConnection>
+        <url>scm:git@github.com:356110537/langchain4j-356110537-starter-memory-redis.git</url>
+        <connection>scm:git@github.com:356110537/langchain4j-356110537-starter-memory-redis.git</connection>
+        <developerConnection>scm:git@github.com:356110537/langchain4j-356110537-starter-memory-redis.git
+        </developerConnection>
     </scm>
 
     <properties>
-        <revision>1.0.0</revision>
+        <revision>1.0.1</revision>
         <java.version>21</java.version>
         <skipTests>true</skipTests>
         <maven.compiler.source>21</maven.compiler.source>
